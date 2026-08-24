@@ -1,0 +1,7 @@
+requests
+opencv-python
+mss
+pyautogui
+PyQt5
+duckduckgo_search
+pyperclip
