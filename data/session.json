@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "在屏幕光标处输入你好"
+  },
+  {
+    "role": "assistant",
+    "content": "前辈，输入完成啦！"
+  }
+]
