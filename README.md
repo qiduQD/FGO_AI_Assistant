@@ -6,6 +6,8 @@
 
 项目包含短期记忆、用户画像、摘要记忆和向量检索（Qdrant 本地持久化）。
 
+最终架构、问题根因和修复方式见：[docs/architecture.md](docs/architecture.md)
+
 ## 功能特性
 
 - 透明桌面挂件 UI（可拖动、置顶）
